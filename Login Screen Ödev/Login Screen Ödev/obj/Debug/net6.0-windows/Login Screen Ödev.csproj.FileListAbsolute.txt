@@ -1,0 +1,19 @@
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\bin\Debug\net6.0-windows\Login Screen Ödev.exe
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\bin\Debug\net6.0-windows\Login Screen Ödev.deps.json
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\bin\Debug\net6.0-windows\Login Screen Ödev.runtimeconfig.json
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\bin\Debug\net6.0-windows\Login Screen Ödev.dll
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\bin\Debug\net6.0-windows\Login Screen Ödev.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login_Screen_Ödev.Form1.resources
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login_Screen_Ödev.Form2.resources
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.AssemblyInfo.cs
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.dll
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\refint\Login Screen Ödev.dll
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login Screen Ödev.genruntimeconfig.cache
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\ref\Login Screen Ödev.dll
+C:\Users\deniz\Desktop\Github Projeleri\Login Screen Ödev\Login Screen Ödev\obj\Debug\net6.0-windows\Login_Screen_Ödev.Properties.Resources.resources
